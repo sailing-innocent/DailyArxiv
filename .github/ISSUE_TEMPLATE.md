@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 07, 2025
+title: Latest 15 Papers - February 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,19 +45,19 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do Large Language Model Benchmarks Test Reliability?](http://arxiv.org/abs/2502.03461v1)** | 2025-02-05 |  |
-| **[Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training](http://arxiv.org/abs/2502.03460v1)** | 2025-02-05 |  |
-| **[A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large-Language-Models (LLMs)](http://arxiv.org/abs/2502.03450v1)** | 2025-02-05 |  |
-| **[S2-Attention: Hardware-Aware Context Sharding Among Attention Heads](http://arxiv.org/abs/2407.17678v7)** | 2025-02-05 | 10 pages |
-| **[BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic Theorem Proving](http://arxiv.org/abs/2502.03438v1)** | 2025-02-05 |  |
-| **[On Fairness of Unified Multimodal Large Language Model for Image Generation](http://arxiv.org/abs/2502.03429v1)** | 2025-02-05 |  |
-| **[Harnessing Large Language Models for Curated Code Reviews](http://arxiv.org/abs/2502.03425v1)** | 2025-02-05 |  |
-| **[Think or Step-by-Step? UnZIPping the Black Box in Zero-Shot Prompts](http://arxiv.org/abs/2502.03418v1)** | 2025-02-05 | <details><summary>8 pag...</summary><p>8 pages (excluding references)</p></details> |
-| **[Simple Is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation](http://arxiv.org/abs/2410.20724v4)** | 2025-02-05 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025; Code available at https://github.com/Graph-COM/SubgraphRAG</p></details> |
-| **[ExploreSelf: Fostering User-driven Exploration and Reflection on Personal Challenges with Adaptive Guidance by Large Language Models](http://arxiv.org/abs/2409.09662v3)** | 2025-02-05 | <details><summary>17 pa...</summary><p>17 pages excluding reference and appendix. Accepted at ACM CHI 2025. https://naver-ai.github.io/exploreself</p></details> |
-| **[SPRI: Aligning Large Language Models with Context-Situated Principles](http://arxiv.org/abs/2502.03397v1)** | 2025-02-05 |  |
-| **[CITER: Collaborative Inference for Efficient Large Language Model Decoding with Token-Level Routing](http://arxiv.org/abs/2502.01976v2)** | 2025-02-05 |  |
-| **[LIMO: Less is More for Reasoning](http://arxiv.org/abs/2502.03387v1)** | 2025-02-05 | 17 pages |
-| **[Demystifying Long Chain-of-Thought Reasoning in LLMs](http://arxiv.org/abs/2502.03373v1)** | 2025-02-05 | <details><summary>Prepr...</summary><p>Preprint, under review</p></details> |
-| **[Agent-OM: Leveraging LLM Agents for Ontology Matching](http://arxiv.org/abs/2312.00326v8)** | 2025-02-05 | <details><summary>19 pa...</summary><p>19 pages, 12 figures, 3 tables</p></details> |
+| **[Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment](http://arxiv.org/abs/2502.04328v1)** | 2025-02-06 |  |
+| **[Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions](http://arxiv.org/abs/2502.04322v1)** | 2025-02-06 |  |
+| **[ChamaleonLLM: Batch-Aware Dynamic Low-Rank Adaptation via Inference-Time Clusters](http://arxiv.org/abs/2502.04315v1)** | 2025-02-06 |  |
+| **[ScoreFlow: Mastering LLM Agent Workflows via Score-based Preference Optimization](http://arxiv.org/abs/2502.04306v1)** | 2025-02-06 | <details><summary>Proje...</summary><p>Project: https://github.com/Gen-Verse/ScoreFlow</p></details> |
+| **[Beyond Prompt Content: Enhancing LLM Performance via Content-Format Integrated Prompt Optimization](http://arxiv.org/abs/2502.04295v1)** | 2025-02-06 |  |
+| **[Advantage Alignment Algorithms](http://arxiv.org/abs/2406.14662v3)** | 2025-02-06 | 25 Pages, 8 figures |
+| **[PILAF: Optimal Human Preference Sampling for Reward Modeling](http://arxiv.org/abs/2502.04270v1)** | 2025-02-06 |  |
+| **[HMT: Hierarchical Memory Transformer for Efficient Long Context Language Processing](http://arxiv.org/abs/2405.06067v3)** | 2025-02-06 | <details><summary>NAACL...</summary><p>NAACL 2025 Main Conference</p></details> |
+| **[A Parameter-Efficient Tuning Framework for Language-guided Object Grounding and Robot Grasping](http://arxiv.org/abs/2409.19457v3)** | 2025-02-06 | <details><summary>Accep...</summary><p>Accepted for ICRA 2025. Project page: https://sites.google.com/umn.edu/etog-etrg/home</p></details> |
+| **[MAGA: MAssive Genre-Audience Reformulation to Pretraining Corpus Expansion](http://arxiv.org/abs/2502.04235v1)** | 2025-02-06 | <details><summary>Datas...</summary><p>Dataset released url https://huggingface.co/datasets/bytedance-research/MAGACorpus</p></details> |
+| **[Can LLMs Hack Enterprise Networks? Autonomous Assumed Breach Penetration-Testing Active Directory Networks](http://arxiv.org/abs/2502.04227v1)** | 2025-02-06 |  |
+| **[Keep It Light! Simplifying Image Clustering Via Text-Free Adapters](http://arxiv.org/abs/2502.04226v1)** | 2025-02-06 |  |
+| **[Éclair -- Extracting Content and Layout with Integrated Reading Order for Documents](http://arxiv.org/abs/2502.04223v1)** | 2025-02-06 |  |
+| **[Sports and Women's Sports: Gender Bias in Text Generation with Olympic Data](http://arxiv.org/abs/2502.04218v1)** | 2025-02-06 | NAACL 2025 |
+| **[Algorithmic causal structure emerging through compression](http://arxiv.org/abs/2502.04210v1)** | 2025-02-06 |  |
 
