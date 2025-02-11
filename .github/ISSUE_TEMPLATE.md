@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 11, 2025
+title: Latest 15 Papers - February 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SIREN: Semantic, Initialization-Free Registration of Multi-Robot Gaussian Splatting Maps](http://arxiv.org/abs/2502.06519v1)** | 2025-02-10 |  |
+| **[EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation](http://arxiv.org/abs/2501.01895v2)** | 2025-02-10 | <details><summary>Websi...</summary><p>Website: https://sites.google.com/view/enerverse</p></details> |
+| **[LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming](http://arxiv.org/abs/2408.14823v2)** | 2025-02-10 | <details><summary>3DV 2...</summary><p>3DV 2025; Project Page: https://yuang-ian.github.io/lapisgs/ ; Code: https://github.com/nus-vv-streams/lapis-gs</p></details> |
+| **[Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting](http://arxiv.org/abs/2403.09981v3)** | 2025-02-09 | 3DV-2025 |
+| **[Digital Twin Buildings: 3D Modeling, GIS Integration, and Visual Descriptions Using Gaussian Splatting, ChatGPT/Deepseek, and Google Maps Platforms](http://arxiv.org/abs/2502.05769v1)** | 2025-02-09 |  |
+| **[PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map](http://arxiv.org/abs/2502.05752v1)** | 2025-02-09 | 14 pages, 8 figures |
+| **[DEGAS: Detailed Expressions on Full-Body Gaussian Avatars](http://arxiv.org/abs/2408.10588v2)** | 2025-02-08 | 3DV 2025 |
+| **[Vision-in-the-loop Simulation for Deep Monocular Pose Estimation of UAV in Ocean Environment](http://arxiv.org/abs/2502.05409v1)** | 2025-02-08 | <details><summary>8 pag...</summary><p>8 pages, 15 figures, conference</p></details> |
+| **[Neural Surface Priors for Editable Gaussian Splatting](http://arxiv.org/abs/2411.18311v2)** | 2025-02-07 | 9 pages, 7 figures |
 | **[AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting](http://arxiv.org/abs/2502.05176v1)** | 2025-02-07 | <details><summary>Proje...</summary><p>Project page: https://kkennethwu.github.io/aurafusion360/</p></details> |
 | **[Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting](http://arxiv.org/abs/2501.18672v2)** | 2025-02-07 | <details><summary>Visit...</summary><p>Visit our project page at https://quyans.github.io/Drag-Your-Gaussian</p></details> |
 | **[GaussRender: Learning 3D Occupancy with Gaussian Rendering](http://arxiv.org/abs/2502.05040v1)** | 2025-02-07 |  |
 | **[HAC++: Towards 100X Compression of 3D Gaussian Splatting](http://arxiv.org/abs/2501.12255v3)** | 2025-02-07 | <details><summary>Proje...</summary><p>Project Page: https://yihangchen-ee.github.io/project_hac++/ Code: https://github.com/YihangChen-ee/HAC-plus. This paper is a journal extension of HAC at arXiv:2403.14530 (ECCV 2024)</p></details> |
 | **[OccGS: Zero-shot 3D Occupancy Reconstruction with Semantic and Geometric-Aware Gaussian Splatting](http://arxiv.org/abs/2502.04981v1)** | 2025-02-07 |  |
 | **[PoI: Pixel of Interest for Novel View Synthesis Assisted Scene Coordinate Regression](http://arxiv.org/abs/2502.04843v1)** | 2025-02-07 |  |
-| **[SC-OmniGS: Self-Calibrating Omnidirectional Gaussian Splatting](http://arxiv.org/abs/2502.04734v1)** | 2025-02-07 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025, Project Page: http://www.chenyingshu.com/sc-omnigs/</p></details> |
-| **[High-Speed Dynamic 3D Imaging with Sensor Fusion Splatting](http://arxiv.org/abs/2502.04630v1)** | 2025-02-07 |  |
-| **[GP-GS: Gaussian Processes for Enhanced Gaussian Splatting](http://arxiv.org/abs/2502.02283v2)** | 2025-02-05 | 14 pages,11 figures |
-| **[GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM](http://arxiv.org/abs/2502.03228v1)** | 2025-02-05 |  |
-| **[Segment Any 3D Gaussians](http://arxiv.org/abs/2312.00860v3)** | 2025-02-05 | <details><summary>AAAI-...</summary><p>AAAI-25. Project page: https://jumpat.github.io/SAGA</p></details> |
-| **[GS-CPR: Efficient Camera Pose Refinement via 3D Gaussian Splatting](http://arxiv.org/abs/2408.11085v3)** | 2025-02-05 | <details><summary>Accep...</summary><p>Accepted to ICLR2025. During the ICLR review process, we changed the name of our framework from GSLoc to GS-CPR (Camera Pose Refinement) according to the comments of reviewers. The project page is available at https://gsloc.active.vision</p></details> |
-| **[GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting](http://arxiv.org/abs/2501.13971v2)** | 2025-02-05 |  |
-| **[GaussNav: Gaussian Splatting for Visual Navigation](http://arxiv.org/abs/2403.11625v3)** | 2025-02-04 | journal |
-| **[LAYOUTDREAMER: Physics-guided Layout for Text-to-3D Compositional Scene Generation](http://arxiv.org/abs/2502.01949v1)** | 2025-02-04 |  |
 
 ## NeRF
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray](http://arxiv.org/abs/2502.05177v1)** | 2025-02-07 | <details><summary>https...</summary><p>https://github.com/VITA-MLLM/Long-VITA</p></details> |
-| **[NoLiMa: Long-Context Evaluation Beyond Literal Matching](http://arxiv.org/abs/2502.05167v1)** | 2025-02-07 |  |
-| **[DuoGuard: A Two-Player RL-Driven Framework for Multilingual LLM Guardrails](http://arxiv.org/abs/2502.05163v1)** | 2025-02-07 | <details><summary>24 pa...</summary><p>24 pages, 9 figures, 5 tables</p></details> |
-| **[A Lightweight Method to Disrupt Memorized Sequences in LLM](http://arxiv.org/abs/2502.05159v1)** | 2025-02-07 | 20 pages, 2 figures |
-| **[Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning](http://arxiv.org/abs/2410.07163v3)** | 2025-02-07 |  |
-| **[Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation](http://arxiv.org/abs/2502.05151v1)** | 2025-02-07 | <details><summary>Work ...</summary><p>Work in progress. Will be updated soon</p></details> |
-| **[CodeSCM: Causal Analysis for Multi-Modal Code Generation](http://arxiv.org/abs/2502.05150v1)** | 2025-02-07 | <details><summary>Accep...</summary><p>Accepted to NAACL 2025</p></details> |
-| **[An Annotated Reading of 'The Singer of Tales' in the LLM Era](http://arxiv.org/abs/2502.05148v1)** | 2025-02-07 |  |
-| **[LemmaHead: RAG Assisted Proof Generation Using Large Language Models](http://arxiv.org/abs/2501.15797v3)** | 2025-02-07 |  |
-| **[Refining Integration-by-Parts Reduction of Feynman Integrals with Machine Learning](http://arxiv.org/abs/2502.05121v1)** | 2025-02-07 | 28 pages, 9 figures |
-| **[Interpreting token compositionality in LLMs: A robustness analysis](http://arxiv.org/abs/2410.12924v2)** | 2025-02-07 | <details><summary>19 pa...</summary><p>19 pages, 2 Figures, 12 tables</p></details> |
-| **[Flexible and Efficient Grammar-Constrained Decoding](http://arxiv.org/abs/2502.05111v1)** | 2025-02-07 |  |
-| **[Pareto-Optimal Learning from Preferences with Hidden Context](http://arxiv.org/abs/2406.15599v2)** | 2025-02-07 |  |
-| **[LADICA: A Large Shared Display Interface for Generative AI Cognitive Assistance in Co-Located Team Collaboration](http://arxiv.org/abs/2409.13968v2)** | 2025-02-07 | 21 pages |
-| **[Lost in Time: Clock and Calendar Understanding Challenges in Multimodal LLMs](http://arxiv.org/abs/2502.05092v1)** | 2025-02-07 | Preprint |
+| **[Ensemble of Large Language Models for Curated Labeling and Rating of Free-text Data](http://arxiv.org/abs/2501.08413v2)** | 2025-02-10 |  |
+| **[Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of Language Family Experts](http://arxiv.org/abs/2410.10626v2)** | 2025-02-10 |  |
+| **[Rationalization Models for Text-to-SQL](http://arxiv.org/abs/2502.06759v1)** | 2025-02-10 |  |
+| **[LinkQ: An LLM-Assisted Visual Interface for Knowledge Graph Question-Answering](http://arxiv.org/abs/2406.06621v2)** | 2025-02-10 | <details><summary>Open-...</summary><p>Open-source code: https://github.com/mit-ll/linkq</p></details> |
+| **[Tamper-Resistant Safeguards for Open-Weight LLMs](http://arxiv.org/abs/2408.00761v4)** | 2025-02-10 | <details><summary>Websi...</summary><p>Website: https://www.tamper-resistant-safeguards.com</p></details> |
+| **[Gradient Multi-Normalization for Stateless and Scalable LLM Training](http://arxiv.org/abs/2502.06742v1)** | 2025-02-10 |  |
+| **[VersaPRM: Multi-Domain Process Reward Model via Synthetic Reasoning Data](http://arxiv.org/abs/2502.06737v1)** | 2025-02-10 |  |
+| **[Dynamic Loss-Based Sample Reweighting for Improved Large Language Model Pretraining](http://arxiv.org/abs/2502.06733v1)** | 2025-02-10 | <details><summary>Accep...</summary><p>Accepted for publication at ICLR 2025. Code base available: https://github.com/sowmaster/Sample-Level-Loss-Reweighting-ICLR-2025</p></details> |
+| **[Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](http://arxiv.org/abs/2502.06703v1)** | 2025-02-10 |  |
+| **[Exploring Audio Editing Features as User-Centric Privacy Defenses Against Large Language Model(LLM) Based Emotion Inference Attacks](http://arxiv.org/abs/2501.18727v2)** | 2025-02-10 | <details><summary>Accep...</summary><p>Accepted for presentation(Poster) at PPAI-25: The 6th AAAI Workshop on Privacy-Preserving Artificial Intelligence</p></details> |
+| **[Sigma: Differential Rescaling of Query, Key and Value for Efficient Language Models](http://arxiv.org/abs/2501.13629v2)** | 2025-02-10 |  |
+| **[Boosting Self-Efficacy and Performance of Large Language Models via Verbal Efficacy Stimulations](http://arxiv.org/abs/2502.06669v1)** | 2025-02-10 | <details><summary>to be...</summary><p>to be published in ICONIP 2024</p></details> |
+| **[Automatic Evaluation of Healthcare LLMs Beyond Question-Answering](http://arxiv.org/abs/2502.06666v1)** | 2025-02-10 |  |
+| **[EfficientLLM: Scalable Pruning-Aware Pretraining for Architecture-Agnostic Edge Language Models](http://arxiv.org/abs/2502.06663v1)** | 2025-02-10 |  |
+| **[Unbiased Evaluation of Large Language Models from a Causal Perspective](http://arxiv.org/abs/2502.06655v1)** | 2025-02-10 |  |
 
