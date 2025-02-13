@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 13, 2025
+title: Latest 15 Papers - February 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MiraGe: Editable 2D Images using Gaussian Splatting](http://arxiv.org/abs/2410.01521v2)** | 2025-02-12 |  |
+| **[3D Gaussian Splatting as Markov Chain Monte Carlo](http://arxiv.org/abs/2404.09591v3)** | 2025-02-12 |  |
+| **[WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting](http://arxiv.org/abs/2412.18862v3)** | 2025-02-12 |  |
+| **[Interactive Holographic Visualization for 3D Facial Avatar](http://arxiv.org/abs/2502.08085v1)** | 2025-02-12 |  |
 | **[UVGS: Reimagining Unstructured 3D Gaussian Splatting using UV Mapping](http://arxiv.org/abs/2502.01846v2)** | 2025-02-11 | <details><summary>https...</summary><p>https://aashishrai3799.github.io/uvgs</p></details> |
 | **[MeshSplats: Mesh-Based Rendering with Gaussian Splatting Initialization](http://arxiv.org/abs/2502.07754v1)** | 2025-02-11 |  |
 | **[Flow Distillation Sampling: Regularizing 3D Gaussians with Pre-trained Matching Priors](http://arxiv.org/abs/2502.07615v1)** | 2025-02-11 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
@@ -15,13 +19,9 @@ labels: documentation
 | **[PoI: Pixel of Interest for Novel View Synthesis Assisted Scene Coordinate Regression](http://arxiv.org/abs/2502.04843v2)** | 2025-02-11 |  |
 | **[BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis](http://arxiv.org/abs/2411.08508v3)** | 2025-02-11 |  |
 | **[DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation](http://arxiv.org/abs/2407.11394v3)** | 2025-02-11 | ICLR 2025 |
+| **[TranSplat: Surface Embedding-guided 3D Gaussian Splatting for Transparent Object Manipulation](http://arxiv.org/abs/2502.07840v1)** | 2025-02-11 | 7 pages, 6 figures |
 | **[Digital Twin Buildings: 3D Modeling, GIS Integration, and Visual Descriptions Using Gaussian Splatting, ChatGPT/Deepseek, and Google Maps Platform](http://arxiv.org/abs/2502.05769v2)** | 2025-02-11 | -Fixed minor typo |
 | **[Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC](http://arxiv.org/abs/2502.07007v1)** | 2025-02-10 |  |
-| **[SIREN: Semantic, Initialization-Free Registration of Multi-Robot Gaussian Splatting Maps](http://arxiv.org/abs/2502.06519v1)** | 2025-02-10 |  |
-| **[EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation](http://arxiv.org/abs/2501.01895v2)** | 2025-02-10 | <details><summary>Websi...</summary><p>Website: https://sites.google.com/view/enerverse</p></details> |
-| **[LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming](http://arxiv.org/abs/2408.14823v2)** | 2025-02-10 | <details><summary>3DV 2...</summary><p>3DV 2025; Project Page: https://yuang-ian.github.io/lapisgs/ ; Code: https://github.com/nus-vv-streams/lapis-gs</p></details> |
-| **[Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting](http://arxiv.org/abs/2403.09981v3)** | 2025-02-09 | 3DV-2025 |
-| **[PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map](http://arxiv.org/abs/2502.05752v1)** | 2025-02-09 | 14 pages, 8 figures |
 
 ## NeRF
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DarwinLM: Evolutionary Structured Pruning of Large Language Models](http://arxiv.org/abs/2502.07780v1)** | 2025-02-11 |  |
-| **[Auditing Prompt Caching in Language Model APIs](http://arxiv.org/abs/2502.07776v1)** | 2025-02-11 | 20 pages, 7 figures |
-| **[Automatic Robot Task Planning by Integrating Large Language Model with Genetic Programming](http://arxiv.org/abs/2502.07772v1)** | 2025-02-11 | <details><summary>Submi...</summary><p>Submitted to IEEE Conference</p></details> |
-| **[Effect of Adaptive Communication Support on LLM-powered Human-Robot Collaboration](http://arxiv.org/abs/2412.06808v2)** | 2025-02-11 | 13 pages, 7 figures |
-| **[Great Power Brings Great Responsibility: Personalizing Conversational AI for Diverse Problem-Solvers](http://arxiv.org/abs/2502.07763v1)** | 2025-02-11 |  |
-| **[Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models](http://arxiv.org/abs/2501.19392v2)** | 2025-02-11 | <details><summary>Prepr...</summary><p>Preprint, under review</p></details> |
-| **[Scalable Fingerprinting of Large Language Models](http://arxiv.org/abs/2502.07760v1)** | 2025-02-11 | 23 pages 15 figures |
-| **[Language Model Council: Democratically Benchmarking Foundation Models on Highly Subjective Tasks](http://arxiv.org/abs/2406.08598v3)** | 2025-02-11 |  |
-| **[Towards Efficient Optimizer Design for LLM via Structured Fisher Approximation with a Low-Rank Extension](http://arxiv.org/abs/2502.07752v1)** | 2025-02-11 |  |
-| **[Reinforcement Learning from Human Feedback with Active Queries](http://arxiv.org/abs/2402.09401v2)** | 2025-02-11 | <details><summary>28 pa...</summary><p>28 pages, 1 figure, 4 table</p></details> |
-| **[Faux Polyglot: A Study on Information Disparity in Multilingual Large Language Models](http://arxiv.org/abs/2407.05502v3)** | 2025-02-11 | NAACL 2025 |
-| **[WHODUNIT: Evaluation benchmark for culprit detection in mystery stories](http://arxiv.org/abs/2502.07747v1)** | 2025-02-11 |  |
-| **[Training Language Models to Reason Efficiently](http://arxiv.org/abs/2502.04463v2)** | 2025-02-11 |  |
-| **[Economics of Sourcing Human Data](http://arxiv.org/abs/2502.07732v1)** | 2025-02-11 |  |
-| **[Verifying LLM-Generated Code in the Context of Software Verification with Ada/SPARK](http://arxiv.org/abs/2502.07728v1)** | 2025-02-11 |  |
+| **[Examining Multilingual Embedding Models Cross-Lingually Through LLM-Generated Adversarial Examples](http://arxiv.org/abs/2502.08638v1)** | 2025-02-12 |  |
+| **[Ensemble based approach to quantifying uncertainty of LLM based classifications](http://arxiv.org/abs/2502.08631v1)** | 2025-02-12 |  |
+| **[Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment](http://arxiv.org/abs/2502.04328v2)** | 2025-02-12 |  |
+| **[ARR: Question Answering with Large Language Models via Analyzing, Retrieving, and Reasoning](http://arxiv.org/abs/2502.04689v2)** | 2025-02-12 | <details><summary>20 pa...</summary><p>20 pages. Code: https://github.com/YuweiYin/ARR</p></details> |
+| **[Evaluating the Performance of ChatGPT for Spam Email Detection](http://arxiv.org/abs/2402.15537v3)** | 2025-02-12 | <details><summary>12 pa...</summary><p>12 pages, 4 figures; Accepted by Pacific Journal of Optimization (PJO)</p></details> |
+| **[ETM: Modern Insights into Perspective on Text-to-SQL Evaluation in the Age of Large Language Models](http://arxiv.org/abs/2407.07313v3)** | 2025-02-12 |  |
+| **[Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks](http://arxiv.org/abs/2502.08586v1)** | 2025-02-12 |  |
+| **[Topic-Aware Knowledge Graph with Large Language Models for Interoperability in Recommender Systems](http://arxiv.org/abs/2412.20163v3)** | 2025-02-12 | <details><summary>Accep...</summary><p>Accepted by The 40th ACM/SIGAPP Symposium On Applied Computing(SAC) 2025</p></details> |
+| **[URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics](http://arxiv.org/abs/2501.04686v3)** | 2025-02-12 | <details><summary>Fix t...</summary><p>Fix typos and add results. 27 pages, 11 tables, 17 figures. Models, training data and code have been open-sourced. Project url: https://ursa-math.github.io</p></details> |
+| **[TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning](http://arxiv.org/abs/2410.19702v2)** | 2025-02-12 | Accepted by ICLR2025 |
+| **[QA-Expand: Multi-Question Answer Generation for Enhanced Query Expansion in Information Retrieval](http://arxiv.org/abs/2502.08557v1)** | 2025-02-12 | 8 pages |
+| **[Fostering Appropriate Reliance on Large Language Models: The Role of Explanations, Sources, and Inconsistencies](http://arxiv.org/abs/2502.08554v1)** | 2025-02-12 | <details><summary>CHI 2...</summary><p>CHI 2025. This version includes the appendix</p></details> |
+| **[LLMs can implicitly learn from mistakes in-context](http://arxiv.org/abs/2502.08550v1)** | 2025-02-12 |  |
+| **[LLM Pretraining with Continuous Concepts](http://arxiv.org/abs/2502.08524v1)** | 2025-02-12 |  |
+| **[The Paradox of Stochasticity: Limited Creativity and Computational Decoupling in Temperature-Varied LLM Outputs of Structured Fictional Data](http://arxiv.org/abs/2502.08515v1)** | 2025-02-12 | 8 pages, 6 figures |
 
