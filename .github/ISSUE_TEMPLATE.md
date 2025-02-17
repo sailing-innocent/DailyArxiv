@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 17, 2025
+title: Latest 15 Papers - February 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,19 +45,19 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency](http://arxiv.org/abs/2502.09621v1)** | 2025-02-13 | <details><summary>Proje...</summary><p>Project Page: https://mmecot.github.io/</p></details> |
-| **[Exploring the Potential of Encoder-free Architectures in 3D LMMs](http://arxiv.org/abs/2502.09620v1)** | 2025-02-13 | <details><summary>The c...</summary><p>The code is released at https://github.com/Ivan-Tang-3D/ENEL</p></details> |
-| **[Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models](http://arxiv.org/abs/2501.13904v3)** | 2025-02-13 |  |
-| **[Human-LLM Coevolution: Evidence from Academic Writing](http://arxiv.org/abs/2502.09606v1)** | 2025-02-13 |  |
-| **[SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models](http://arxiv.org/abs/2502.09604v1)** | 2025-02-13 | <details><summary>Imple...</summary><p>Implementation available at https://github.com/voidism/SelfCite</p></details> |
-| **[Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs](http://arxiv.org/abs/2502.09597v1)** | 2025-02-13 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025 as oral presentation. Code and data at: https://prefeval.github.io/</p></details> |
-| **[KIMAs: A Configurable Knowledge Integrated Multi-Agent System](http://arxiv.org/abs/2502.09596v1)** | 2025-02-13 |  |
-| **[Logical forms complement probability in understanding language model (and human) performance](http://arxiv.org/abs/2502.09589v1)** | 2025-02-13 | Preprint |
-| **[Polymind: Parallel Visual Diagramming with Large Language Models to Support Prewriting Through Microtasks](http://arxiv.org/abs/2502.09577v1)** | 2025-02-13 | <details><summary>Accep...</summary><p>Accepted to CSCW 2025 with minor revisions</p></details> |
-| **[Zero-shot generation of synthetic neurosurgical data with large language models](http://arxiv.org/abs/2502.09566v1)** | 2025-02-13 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 4 tables</p></details> |
-| **[MDCrow: Automating Molecular Dynamics Workflows with Large Language Models](http://arxiv.org/abs/2502.09565v1)** | 2025-02-13 |  |
-| **[Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos](http://arxiv.org/abs/2501.04001v2)** | 2025-02-13 | <details><summary>Proje...</summary><p>Project page: https://lxtgh.github.io/project/sa2va</p></details> |
-| **[EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents](http://arxiv.org/abs/2502.09560v1)** | 2025-02-13 | 51 pages |
-| **[TransMLA: Multi-Head Latent Attention Is All You Need](http://arxiv.org/abs/2502.07864v2)** | 2025-02-13 | <details><summary>https...</summary><p>https://github.com/fxmeng/TransMLA</p></details> |
-| **[Hello Again! LLM-powered Personalized Agent for Long-term Dialogue](http://arxiv.org/abs/2406.05925v2)** | 2025-02-13 | <details><summary>Accep...</summary><p>Accepted to NAACL 2025</p></details> |
+| **[MM-RLHF: The Next Step Forward in Multimodal LLM Alignment](http://arxiv.org/abs/2502.10391v1)** | 2025-02-14 | <details><summary>Proje...</summary><p>Project Page: https://mm-rlhf.github.io/</p></details> |
+| **[Aspect-Oriented Summarization for Psychiatric Short-Term Readmission Prediction](http://arxiv.org/abs/2502.10388v1)** | 2025-02-14 |  |
+| **[An Interactive Framework for Implementing Privacy-Preserving Federated Learning: Experiments on Large Language Models](http://arxiv.org/abs/2502.08008v2)** | 2025-02-14 |  |
+| **[Enhancing Multilingual LLM Pretraining with Model-Based Data Selection](http://arxiv.org/abs/2502.10361v1)** | 2025-02-14 |  |
+| **[The Graph's Apprentice: Teaching an LLM Low Level Knowledge for Circuit Quality Estimation](http://arxiv.org/abs/2411.00843v2)** | 2025-02-14 |  |
+| **[MathGAP: Out-of-Distribution Evaluation on Problems with Arbitrarily Complex Proofs](http://arxiv.org/abs/2410.13502v3)** | 2025-02-14 | ICLR 2025 |
+| **[Towards Top-Down Reasoning: An Explainable Multi-Agent Approach for Visual Question Answering](http://arxiv.org/abs/2311.17331v4)** | 2025-02-14 | 13 pages, 8 figures |
+| **[Organize the Web: Constructing Domains Enhances Pre-Training Data Curation](http://arxiv.org/abs/2502.10341v1)** | 2025-02-14 | <details><summary>Proje...</summary><p>Project page: https://weborganizer.allen.ai</p></details> |
+| **[Evaluating the Meta- and Object-Level Reasoning of Large Language Models for Question Answering](http://arxiv.org/abs/2502.10338v1)** | 2025-02-14 | <details><summary>8 pag...</summary><p>8 pages. Accepted to the Workshop on Planning in the Era of LLMs (LM4Plan @ AAAI 2025)</p></details> |
+| **[SuperMerge: An Approach For Gradient-Based Model Merging](http://arxiv.org/abs/2412.10416v2)** | 2025-02-14 |  |
+| **[ResearchArena: Benchmarking Large Language Models' Ability to Collect and Organize Information as Research Agents](http://arxiv.org/abs/2406.10291v2)** | 2025-02-14 |  |
+| **[LLM-Powered Preference Elicitation in Combinatorial Assignment](http://arxiv.org/abs/2502.10308v1)** | 2025-02-14 |  |
+| **[Open-Source AI-Powered Optimization in Scalene: Advancing Python Performance Profiling with DeepSeek-R1 and LLaMA 3.2](http://arxiv.org/abs/2502.10299v1)** | 2025-02-14 |  |
+| **[Programming Every Example: Lifting Pre-training Data Quality Like Experts at Scale](http://arxiv.org/abs/2409.17115v2)** | 2025-02-14 | <details><summary>47 pa...</summary><p>47 pages, 13 figures, 34 tables</p></details> |
+| **[Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey](http://arxiv.org/abs/2409.01980v3)** | 2025-02-14 | <details><summary>Accep...</summary><p>Accepted to NAACL 2025 Findings</p></details> |
 
