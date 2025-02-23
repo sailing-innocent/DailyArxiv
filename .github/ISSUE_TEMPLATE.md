@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 21, 2025
+title: Latest 15 Papers - February 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting](http://arxiv.org/abs/2502.14684v1)** | 2025-02-20 |  |
+| **[CaRtGS: Computational Alignment for Real-Time Gaussian Splatting SLAM](http://arxiv.org/abs/2410.00486v3)** | 2025-02-20 | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters (RA-L)</p></details> |
+| **[Hier-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting](http://arxiv.org/abs/2409.12518v3)** | 2025-02-20 | <details><summary>Accep...</summary><p>Accepted for publication at ICRA 2025. Code will be released soon</p></details> |
+| **[OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving](http://arxiv.org/abs/2502.14235v1)** | 2025-02-20 |  |
+| **[3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation](http://arxiv.org/abs/2410.18974v2)** | 2025-02-20 | <details><summary>Proje...</summary><p>Project page: https://lakonik.github.io/3d-adapter/</p></details> |
+| **[OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering](http://arxiv.org/abs/2404.08449v3)** | 2025-02-20 | <details><summary>We ha...</summary><p>We have decided to withdraw this paper because the results require further verification or additional experimental data. We plan to resubmit an updated version once the necessary work is completed</p></details> |
+| **[GlossGau: Efficient Inverse Rendering for Glossy Surface with Anisotropic Spherical Gaussian](http://arxiv.org/abs/2502.14129v1)** | 2025-02-19 |  |
 | **[3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments](http://arxiv.org/abs/2502.13803v1)** | 2025-02-19 |  |
+| **[Inter3D: A Benchmark and Strong Baseline for Human-Interactive 3D Object Reconstruction](http://arxiv.org/abs/2502.14004v1)** | 2025-02-19 |  |
 | **[Hybrid Explicit Representation for Ultra-Realistic Head Avatars](http://arxiv.org/abs/2403.11453v2)** | 2025-02-19 | 16 pages |
 | **[WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting](http://arxiv.org/abs/2412.04832v2)** | 2025-02-19 | <details><summary>accep...</summary><p>accepted to the IEEE International Conference on Computer Communications (INFOCOM 2025)</p></details> |
 | **[GS-QA: Comprehensive Quality Assessment Benchmark for Gaussian Splatting View Synthesis](http://arxiv.org/abs/2502.13196v1)** | 2025-02-18 |  |
 | **[GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM](http://arxiv.org/abs/2502.03228v2)** | 2025-02-18 | <details><summary>The p...</summary><p>The paper was accepted by ICRA 2025</p></details> |
 | **[PUGS: Zero-shot Physical Understanding with Gaussian Splatting](http://arxiv.org/abs/2502.12231v1)** | 2025-02-17 | <details><summary>ICRA ...</summary><p>ICRA 2025, Project page: https://evernorif.github.io/PUGS/</p></details> |
 | **[3D Gaussian Inpainting with Depth-Guided Cross-View Consistency](http://arxiv.org/abs/2502.11801v1)** | 2025-02-17 |  |
-| **[Exploring the Versal AI Engine for 3D Gaussian Splatting](http://arxiv.org/abs/2502.11782v1)** | 2025-02-17 |  |
-| **[GaussianMotion: End-to-End Learning of Animatable Gaussian Avatars with Pose Guidance from Text](http://arxiv.org/abs/2502.11642v1)** | 2025-02-17 | 8 pages |
-| **[3D Reconstruction of Shoes for Augmented Reality](http://arxiv.org/abs/2501.18643v2)** | 2025-02-17 |  |
-| **[OMG: Opacity Matters in Material Modeling with Gaussian Splatting](http://arxiv.org/abs/2502.10988v1)** | 2025-02-16 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025</p></details> |
-| **[GS-GVINS: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting](http://arxiv.org/abs/2502.10975v1)** | 2025-02-16 |  |
-| **[E-3DGS: Event-Based Novel View Rendering of Large-Scale Scenes Using 3D Gaussian Splatting](http://arxiv.org/abs/2502.10827v1)** | 2025-02-15 | <details><summary>15 pa...</summary><p>15 pages, 10 figures and 3 tables; project page: https://4dqv.mpi-inf.mpg.de/E3DGS/; International Conference on 3D Vision (3DV) 2025</p></details> |
-| **[GaussianSpa: An "Optimizing-Sparsifying" Simplification Framework for Compact and High-Quality 3D Gaussian Splatting](http://arxiv.org/abs/2411.06019v2)** | 2025-02-15 | <details><summary>Proje...</summary><p>Project page at https://noodle-lab.github.io/gaussianspa/</p></details> |
-| **[Self-Calibrating Gaussian Splatting for Large Field of View Reconstruction](http://arxiv.org/abs/2502.09563v1)** | 2025-02-13 | <details><summary>Proje...</summary><p>Project Page: https://denghilbert.github.io/self-cali/</p></details> |
 
 ## NeRF
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Where's the Bug? Attention Probing for Scalable Fault Localization](http://arxiv.org/abs/2502.13966v1)** | 2025-02-19 | 14 pages, 5 figures |
-| **[Autellix: An Efficient Serving Engine for LLM Agents as General Programs](http://arxiv.org/abs/2502.13965v1)** | 2025-02-19 |  |
-| **[MuDAF: Long-Context Multi-Document Attention Focusing through Contrastive Learning on Attention Heads](http://arxiv.org/abs/2502.13963v1)** | 2025-02-19 | 18 pages |
-| **[Is That Your Final Answer? Test-Time Scaling Improves Selective Question Answering](http://arxiv.org/abs/2502.13962v1)** | 2025-02-19 |  |
-| **[LIDDIA: Language-based Intelligent Drug Discovery Agent](http://arxiv.org/abs/2502.13959v1)** | 2025-02-19 | Preprint |
-| **[Neurosymbolic artificial intelligence via large language models and coherence-driven inference](http://arxiv.org/abs/2502.13953v1)** | 2025-02-19 |  |
-| **[Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region](http://arxiv.org/abs/2502.13946v1)** | 2025-02-19 |  |
-| **[Learning from Committee: Reasoning Distillation from a Mixture of Teachers with Peer-Review](http://arxiv.org/abs/2410.03663v3)** | 2025-02-19 | 16 pages, 5 figures |
-| **[Theoretically Grounded Framework for LLM Watermarking: A Distribution-Adaptive Approach](http://arxiv.org/abs/2410.02890v4)** | 2025-02-19 |  |
-| **[LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization](http://arxiv.org/abs/2502.13922v1)** | 2025-02-19 | ICLR 2025 |
-| **[Exploring Code Language Models for Automated HLS-based Hardware Generation: Benchmark, Infrastructure and Analysis](http://arxiv.org/abs/2502.13921v1)** | 2025-02-19 | <details><summary>Paper...</summary><p>Paper accepted by ASP-DAC'25</p></details> |
-| **[Exploring Personalized Health Support through Data-Driven, Theory-Guided LLMs: A Case Study in Sleep Health](http://arxiv.org/abs/2502.13920v1)** | 2025-02-19 | <details><summary>Accep...</summary><p>Accepted to CHI Conference on Human Factors in Computing Systems (CHI 2025)</p></details> |
-| **[How Do LLMs Perform Two-Hop Reasoning in Context?](http://arxiv.org/abs/2502.13913v1)** | 2025-02-19 |  |
-| **[Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?](http://arxiv.org/abs/2502.13909v1)** | 2025-02-19 | Under Review |
-| **[Judging the Judges: A Collection of LLM-Generated Relevance Judgements](http://arxiv.org/abs/2502.13908v1)** | 2025-02-19 | 11 pages |
+| **[LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention](http://arxiv.org/abs/2502.14866v1)** | 2025-02-20 | <details><summary>Accep...</summary><p>Accepted by MLSys 2025. Code available at: https://github.com/mit-han-lab/omniserve</p></details> |
+| **[Aligning LLMs to Ask Good Questions A Case Study in Clinical Reasoning](http://arxiv.org/abs/2502.14860v1)** | 2025-02-20 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 8 tables</p></details> |
+| **[FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling](http://arxiv.org/abs/2502.14856v1)** | 2025-02-20 |  |
+| **[Prompt-to-Leaderboard](http://arxiv.org/abs/2502.14855v1)** | 2025-02-20 |  |
+| **[GATE: Graph-based Adaptive Tool Evolution Across Diverse Tasks](http://arxiv.org/abs/2502.14848v1)** | 2025-02-20 | <details><summary>8 pag...</summary><p>8 pages of main text, 38 pages of appendices</p></details> |
+| **[Red-Teaming LLM Multi-Agent Systems via Communication Attacks](http://arxiv.org/abs/2502.14847v1)** | 2025-02-20 |  |
+| **[Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation](http://arxiv.org/abs/2502.14846v1)** | 2025-02-20 | <details><summary>20 pa...</summary><p>20 pages, 19 figures, 9 tables, website: https://yueyang1996.github.io/cosyn/</p></details> |
+| **[Revealing and Mitigating Over-Attention in Knowledge Editing](http://arxiv.org/abs/2502.14838v1)** | 2025-02-20 |  |
+| **[Towards Efficient Optimizer Design for LLM via Structured Fisher Approximation with a Low-Rank Extension](http://arxiv.org/abs/2502.07752v2)** | 2025-02-20 |  |
+| **[MATS: An Audio Language Model under Text-only Supervision](http://arxiv.org/abs/2502.13433v2)** | 2025-02-20 | 19 pages,11 figures |
+| **[Middle-Layer Representation Alignment for Cross-Lingual Transfer in Fine-Tuned LLMs](http://arxiv.org/abs/2502.14830v1)** | 2025-02-20 |  |
+| **[A Survey of Model Architectures in Information Retrieval](http://arxiv.org/abs/2502.14822v1)** | 2025-02-20 |  |
+| **[Large Language Model Confidence Estimation via Black-Box Access](http://arxiv.org/abs/2406.04370v3)** | 2025-02-20 |  |
+| **[eC-Tab2Text: Aspect-Based Text Generation from e-Commerce Product Tables](http://arxiv.org/abs/2502.14820v1)** | 2025-02-20 | <details><summary>NAACL...</summary><p>NAACL 2025 (Industry Track)</p></details> |
+| **[Dynamic Low-Rank Sparse Adaptation for Large Language Models](http://arxiv.org/abs/2502.14816v1)** | 2025-02-20 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
 
