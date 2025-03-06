@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 06, 2025
+title: Latest 15 Papers - March 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deblur-Avatar: Animatable Avatars from Motion-Blurred Monocular Videos](http://arxiv.org/abs/2501.13335v2)** | 2025-03-05 |  |
+| **[GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization](http://arxiv.org/abs/2409.16502v2)** | 2025-03-05 | <details><summary>Proje...</summary><p>Project website at https://gsplatloc.github.io/</p></details> |
+| **[ArtNVG: Content-Style Separated Artistic Neighboring-View Gaussian Stylization](http://arxiv.org/abs/2412.18783v2)** | 2025-03-05 |  |
+| **[Sim2Real within 5 Minutes: Efficient Domain Transfer with Stylized Gaussian Splatting for Endoscopic Images](http://arxiv.org/abs/2403.10860v2)** | 2025-03-05 | <details><summary>Accep...</summary><p>Accepted by ICRA 2025</p></details> |
+| **[3DGS.zip: A survey on 3D Gaussian Splatting Compression Methods](http://arxiv.org/abs/2407.09510v5)** | 2025-03-05 | <details><summary>3D Ga...</summary><p>3D Gaussian Splatting compression survey; 3DGS compression; updated discussion; new approaches added; new illustrations</p></details> |
+| **[NTR-Gaussian: Nighttime Dynamic Thermal Reconstruction with 4D Gaussian Splatting Based on Thermodynamics](http://arxiv.org/abs/2503.03115v1)** | 2025-03-05 | <details><summary>IEEE ...</summary><p>IEEE Conference on Computer Vision and Pattern Recognition 2025</p></details> |
 | **[CrowdSplat: Exploring Gaussian Splatting For Crowd Rendering](http://arxiv.org/abs/2501.17792v2)** | 2025-03-04 | 4 pages, 4 figures |
 | **[Evaluating CrowdSplat: Perceived Level of Detail for Gaussian Crowds](http://arxiv.org/abs/2501.17085v2)** | 2025-03-04 | 5 pages, 5 figures |
 | **[2DGS-Avatar: Animatable High-fidelity Clothed Avatar via 2D Gaussian Splatting](http://arxiv.org/abs/2503.02452v1)** | 2025-03-04 | ICVRV 2024 |
@@ -16,18 +22,12 @@ labels: documentation
 | **[CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes](http://arxiv.org/abs/2411.00771v2)** | 2025-03-04 | Accepted by ICLR2025 |
 | **[Bootstrap-GS: Self-Supervised Augmentation for High-Fidelity Gaussian Splatting](http://arxiv.org/abs/2404.18669v3)** | 2025-03-04 |  |
 | **[Morpheus: Text-Driven 3D Gaussian Splat Shape and Color Stylization](http://arxiv.org/abs/2503.02009v1)** | 2025-03-03 |  |
-| **[Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models](http://arxiv.org/abs/2503.01774v1)** | 2025-03-03 | CVPR 2025 |
-| **[OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding](http://arxiv.org/abs/2503.01646v1)** | 2025-03-03 |  |
-| **[Poison-splat: Computation Cost Attack on 3D Gaussian Splatting](http://arxiv.org/abs/2410.08190v2)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025 as a spotlight paper</p></details> |
-| **[Locality-aware Gaussian Compression for Fast and High-quality Rendering](http://arxiv.org/abs/2501.05757v2)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025. Project page: https://seungjooshin.github.io/LocoGS</p></details> |
-| **[LiteGS: A High-Performance Modular Framework for Gaussian Splatting Training](http://arxiv.org/abs/2503.01199v1)** | 2025-03-03 |  |
-| **[Dynamic Gaussians Mesh: Consistent Mesh Reconstruction from Dynamic Scenes](http://arxiv.org/abs/2404.12379v3)** | 2025-03-03 | <details><summary>Proje...</summary><p>Project page: https://www.liuisabella.com/DG-Mesh</p></details> |
 
 ## NeRF
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Category-level Meta-learned NeRF Priors for Efficient Object Mapping](http://arxiv.org/abs/2503.01582v2)** | 2025-03-05 |  |
 | **[Data Augmentation for NeRFs in the Low Data Limit](http://arxiv.org/abs/2503.02092v1)** | 2025-03-03 | <details><summary>To be...</summary><p>To be published in 2025 IEEE International Conference on Robotics and Automation (ICRA 2025)</p></details> |
-| **[Category-level Meta-learned NeRF Priors for Efficient Object Mapping](http://arxiv.org/abs/2503.01582v1)** | 2025-03-03 |  |
 | **[EndoPerfect: High-Accuracy Monocular Depth Estimation and 3D Reconstruction for Endoscopic Surgery via NeRF-Stereo Fusion](http://arxiv.org/abs/2410.04041v5)** | 2025-02-28 |  |
 | **[The NeRF Signature: Codebook-Aided Watermarking for Neural Radiance Fields](http://arxiv.org/abs/2502.19125v1)** | 2025-02-26 | <details><summary>16 pa...</summary><p>16 pages, accepted by TPAMI</p></details> |
 | **[Bringing NeRFs to the Latent Space: Inverse Graphics Autoencoder](http://arxiv.org/abs/2410.22936v2)** | 2025-02-24 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025. Available at https://openreview.net/forum?id=LTDtjrv02Y</p></details> |
@@ -45,5 +45,14 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Wikipedia in the Era of LLMs: Evolution and Risks](http://arxiv.org/abs/2503.02879v1)** | 2025-03-04 | <details><summary>We re...</summary><p>We release all the experimental dataset and source code at: https://github.com/HSM316/LLM_Wikipedia</p></details> |
+| **[The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems](http://arxiv.org/abs/2503.03750v1)** | 2025-03-05 | <details><summary>Websi...</summary><p>Website: https://www.mask-benchmark.ai</p></details> |
+| **[Personalize Your LLM: Fake it then Align it](http://arxiv.org/abs/2503.01048v3)** | 2025-03-05 | NAACL 2025 Findings |
+| **[Process-based Self-Rewarding Language Models](http://arxiv.org/abs/2503.03746v1)** | 2025-03-05 |  |
+| **[Towards Understanding Distilled Reasoning Models: A Representational Approach](http://arxiv.org/abs/2503.03730v1)** | 2025-03-05 | 13 pages, 11 figures |
+| **[CDS: Data Synthesis Method Guided by Cognitive Diagnosis Theory](http://arxiv.org/abs/2501.07674v2)** | 2025-03-05 |  |
+| **[PARAMANU-GANITA: Can Small Math Language Models Rival with Large Language Models on Mathematical Reasoning?](http://arxiv.org/abs/2404.14395v2)** | 2025-03-05 |  |
+| **[Improving LLM Safety Alignment with Dual-Objective Optimization](http://arxiv.org/abs/2503.03710v1)** | 2025-03-05 |  |
+| **[Effective LLM Knowledge Learning via Model Generalization](http://arxiv.org/abs/2503.03705v1)** | 2025-03-05 |  |
+| **[A Practical Memory Injection Attack against LLM Agents](http://arxiv.org/abs/2503.03704v1)** | 2025-03-05 |  |
+| **[Developing and Utilizing a Large-Scale Cantonese Dataset for Multi-Tasking in Large Language Models](http://arxiv.org/abs/2503.03702v1)** | 2025-03-05 |  |
 
