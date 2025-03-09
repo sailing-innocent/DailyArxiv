@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 07, 2025
+title: Latest 15 Papers - March 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving](http://arxiv.org/abs/2410.00299v2)** | 2025-03-06 | 8 pages, 6 figures |
+| **[GaussianVideo: Efficient Video Representation and Compression by Gaussian Splatting](http://arxiv.org/abs/2503.04333v1)** | 2025-03-06 |  |
+| **[S2Gaussian: Sparse-View Super-Resolution 3D Gaussian Splatting](http://arxiv.org/abs/2503.04314v1)** | 2025-03-06 | CVPR 2025 |
+| **[Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting](http://arxiv.org/abs/2501.18672v4)** | 2025-03-06 | <details><summary>Visit...</summary><p>Visit our project page at https://quyans.github.io/Drag-Your-Gaussian</p></details> |
+| **[Instrument-Splatting: Controllable Photorealistic Reconstruction of Surgical Instruments Using Gaussian Splatting](http://arxiv.org/abs/2503.04082v1)** | 2025-03-06 | 11 pages, 5 figures |
+| **[Beyond Existance: Fulfill 3D Reconstructed Scenes with Pseudo Details](http://arxiv.org/abs/2503.04037v1)** | 2025-03-06 |  |
+| **[GaussianGraph: 3D Gaussian-based Scene Graph Generation for Open-world Scene Understanding](http://arxiv.org/abs/2503.04034v1)** | 2025-03-06 |  |
+| **[GRaD-Nav: Efficiently Learning Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics](http://arxiv.org/abs/2503.03984v1)** | 2025-03-06 |  |
+| **[GuardSplat: Efficient and Robust Watermarking for 3D Gaussian Splatting](http://arxiv.org/abs/2411.19895v3)** | 2025-03-05 | <details><summary>This ...</summary><p>This paper is accepted by the IEEE/CVF International Conference on Computer Vision and Pattern Recognition (CVPR), 2025</p></details> |
+| **[LensDFF: Language-enhanced Sparse Feature Distillation for Efficient Few-Shot Dexterous Manipulation](http://arxiv.org/abs/2503.03890v1)** | 2025-03-05 | 8 pages |
 | **[Deblur-Avatar: Animatable Avatars from Motion-Blurred Monocular Videos](http://arxiv.org/abs/2501.13335v2)** | 2025-03-05 |  |
 | **[GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization](http://arxiv.org/abs/2409.16502v2)** | 2025-03-05 | <details><summary>Proje...</summary><p>Project website at https://gsplatloc.github.io/</p></details> |
 | **[ArtNVG: Content-Style Separated Artistic Neighboring-View Gaussian Stylization](http://arxiv.org/abs/2412.18783v2)** | 2025-03-05 |  |
 | **[Sim2Real within 5 Minutes: Efficient Domain Transfer with Stylized Gaussian Splatting for Endoscopic Images](http://arxiv.org/abs/2403.10860v2)** | 2025-03-05 | <details><summary>Accep...</summary><p>Accepted by ICRA 2025</p></details> |
 | **[3DGS.zip: A survey on 3D Gaussian Splatting Compression Methods](http://arxiv.org/abs/2407.09510v5)** | 2025-03-05 | <details><summary>3D Ga...</summary><p>3D Gaussian Splatting compression survey; 3DGS compression; updated discussion; new approaches added; new illustrations</p></details> |
-| **[NTR-Gaussian: Nighttime Dynamic Thermal Reconstruction with 4D Gaussian Splatting Based on Thermodynamics](http://arxiv.org/abs/2503.03115v1)** | 2025-03-05 | <details><summary>IEEE ...</summary><p>IEEE Conference on Computer Vision and Pattern Recognition 2025</p></details> |
-| **[CrowdSplat: Exploring Gaussian Splatting For Crowd Rendering](http://arxiv.org/abs/2501.17792v2)** | 2025-03-04 | 4 pages, 4 figures |
-| **[Evaluating CrowdSplat: Perceived Level of Detail for Gaussian Crowds](http://arxiv.org/abs/2501.17085v2)** | 2025-03-04 | 5 pages, 5 figures |
-| **[2DGS-Avatar: Animatable High-fidelity Clothed Avatar via 2D Gaussian Splatting](http://arxiv.org/abs/2503.02452v1)** | 2025-03-04 | ICVRV 2024 |
-| **[OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation](http://arxiv.org/abs/2502.18041v3)** | 2025-03-04 |  |
-| **[Abstract Rendering: Computing All that is Seen in Gaussian Splat Scenes](http://arxiv.org/abs/2503.00308v2)** | 2025-03-04 |  |
-| **[DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting](http://arxiv.org/abs/2503.02223v1)** | 2025-03-04 |  |
-| **[CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes](http://arxiv.org/abs/2411.00771v2)** | 2025-03-04 | Accepted by ICLR2025 |
-| **[Bootstrap-GS: Self-Supervised Augmentation for High-Fidelity Gaussian Splatting](http://arxiv.org/abs/2404.18669v3)** | 2025-03-04 |  |
-| **[Morpheus: Text-Driven 3D Gaussian Splat Shape and Color Stylization](http://arxiv.org/abs/2503.02009v1)** | 2025-03-03 |  |
 
 ## NeRF
 | **Title** | **Date** | **Comment** |
@@ -45,14 +45,19 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems](http://arxiv.org/abs/2503.03750v1)** | 2025-03-05 | <details><summary>Websi...</summary><p>Website: https://www.mask-benchmark.ai</p></details> |
-| **[Personalize Your LLM: Fake it then Align it](http://arxiv.org/abs/2503.01048v3)** | 2025-03-05 | NAACL 2025 Findings |
-| **[Process-based Self-Rewarding Language Models](http://arxiv.org/abs/2503.03746v1)** | 2025-03-05 |  |
-| **[Towards Understanding Distilled Reasoning Models: A Representational Approach](http://arxiv.org/abs/2503.03730v1)** | 2025-03-05 | 13 pages, 11 figures |
-| **[CDS: Data Synthesis Method Guided by Cognitive Diagnosis Theory](http://arxiv.org/abs/2501.07674v2)** | 2025-03-05 |  |
-| **[PARAMANU-GANITA: Can Small Math Language Models Rival with Large Language Models on Mathematical Reasoning?](http://arxiv.org/abs/2404.14395v2)** | 2025-03-05 |  |
-| **[Improving LLM Safety Alignment with Dual-Objective Optimization](http://arxiv.org/abs/2503.03710v1)** | 2025-03-05 |  |
-| **[Effective LLM Knowledge Learning via Model Generalization](http://arxiv.org/abs/2503.03705v1)** | 2025-03-05 |  |
-| **[A Practical Memory Injection Attack against LLM Agents](http://arxiv.org/abs/2503.03704v1)** | 2025-03-05 |  |
-| **[Developing and Utilizing a Large-Scale Cantonese Dataset for Multi-Tasking in Large Language Models](http://arxiv.org/abs/2503.03702v1)** | 2025-03-05 |  |
+| **[L$^2$M: Mutual Information Scaling Law for Long-Context Language Modeling](http://arxiv.org/abs/2503.04725v1)** | 2025-03-06 | <details><summary>29 pa...</summary><p>29 pages, 12 figures, 1 table</p></details> |
+| **[Shifting Long-Context LLMs Research from Input to Output](http://arxiv.org/abs/2503.04723v1)** | 2025-03-06 | Preprint |
+| **[Enough Coin Flips Can Make LLMs Act Bayesian](http://arxiv.org/abs/2503.04722v1)** | 2025-03-06 |  |
+| **[Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining](http://arxiv.org/abs/2503.04715v1)** | 2025-03-06 | 19 pages |
+| **[How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments](http://arxiv.org/abs/2403.11807v7)** | 2025-03-06 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025; 11 pages of main text; 26 pages of appendices; Included models: GPT-3.5-{0613, 1106, 0125}, GPT-4-0125, GPT-4o-0806, Gemini-{1.0, 1.5)-Pro, LLaMA-3.1-{7, 70, 405}B, Mixtral-8x{7, 22}B, Qwen-2-72B</p></details> |
+| **[Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size](http://arxiv.org/abs/2503.04704v1)** | 2025-03-06 | <details><summary>29 pa...</summary><p>29 pages, 7 figures, 14 tables; Comments are welcome</p></details> |
+| **[UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets](http://arxiv.org/abs/2503.04693v1)** | 2025-03-06 |  |
+| **[Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases](http://arxiv.org/abs/2503.04691v1)** | 2025-03-06 |  |
+| **[RAAD-LLM: Adaptive Anomaly Detection Using LLMs and RAG Integration](http://arxiv.org/abs/2503.02800v2)** | 2025-03-06 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2411.00914</p></details> |
+| **[LLM-guided Plan and Retrieval: A Strategic Alignment for Interpretable User Satisfaction Estimation in Dialogue](http://arxiv.org/abs/2503.04675v1)** | 2025-03-06 | <details><summary>Accep...</summary><p>Accepted by NAACL 2025</p></details> |
+| **[AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement](http://arxiv.org/abs/2502.02067v2)** | 2025-03-06 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA) 2025</p></details> |
+| **[Diagnosing Moral Reasoning Acquisition in Language Models: Pragmatics and Generalization](http://arxiv.org/abs/2502.16600v4)** | 2025-03-06 |  |
+| **[Creative Writers' Attitudes on Writing as Training Data for Large Language Models](http://arxiv.org/abs/2409.14281v2)** | 2025-03-06 | CHI 25 |
+| **[Implicit Cross-Lingual Rewarding for Efficient Multilingual Preference Alignment](http://arxiv.org/abs/2503.04647v1)** | 2025-03-06 | Work in progress |
+| **[Mark Your LLM: Detecting the Misuse of Open-Source Large Language Models via Watermarking](http://arxiv.org/abs/2503.04636v1)** | 2025-03-06 | <details><summary>Accep...</summary><p>Accepted by the 1st Workshop on GenAI Watermarking, collocated with ICLR 2025</p></details> |
 
