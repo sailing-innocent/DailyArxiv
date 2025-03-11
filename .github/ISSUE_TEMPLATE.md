@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 11, 2025
+title: Latest 15 Papers - March 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[D2GV: Deformable 2D Gaussian Splatting for Video Representation in 400FPS](http://arxiv.org/abs/2503.05600v1)** | 2025-03-07 |  |
-| **[Free Your Hands: Lightweight Relightable Turntable Capture Pipeline](http://arxiv.org/abs/2503.05511v1)** | 2025-03-07 |  |
-| **[LiDAR-enhanced 3D Gaussian Splatting Mapping](http://arxiv.org/abs/2503.05425v1)** | 2025-03-07 | <details><summary>Accep...</summary><p>Accepted by ICRA 2025</p></details> |
-| **[Self-Modeling Robots by Photographing](http://arxiv.org/abs/2503.05398v1)** | 2025-03-07 |  |
-| **[A Survey on 3D Gaussian Splatting](http://arxiv.org/abs/2401.03890v6)** | 2025-03-07 | <details><summary>Ongoi...</summary><p>Ongoing project. Paper list: https://github.com/guikunchen/Awesome3DGS ; Benchmark: https://github.com/guikunchen/3DGS-Benchmarks</p></details> |
-| **[Gaussians-to-Life: Text-Driven Animation of 3D Gaussian Splatting Scenes](http://arxiv.org/abs/2411.19233v2)** | 2025-03-07 | <details><summary>Proje...</summary><p>Project website at https://wimmerth.github.io/gaussians2life.html. Accepted to 3DV 2025</p></details> |
-| **[CoMoGaussian: Continuous Motion-Aware Gaussian Splatting from Motion-Blurred Images](http://arxiv.org/abs/2503.05332v1)** | 2025-03-07 | <details><summary>Revis...</summary><p>Revised Version of CRiM-GS, Github: https://github.com/Jho-Yonsei/CoMoGaussian</p></details> |
-| **[STGA: Selective-Training Gaussian Head Avatars](http://arxiv.org/abs/2503.05196v1)** | 2025-03-07 |  |
-| **[Gaussian Splatting Visual MPC for Granular Media Manipulation](http://arxiv.org/abs/2410.09740v3)** | 2025-03-07 | <details><summary>proje...</summary><p>project website https://weichengtseng.github.io/gs-granular-mani/</p></details> |
-| **[Persistent Object Gaussian Splat (POGS) for Tracking Human and Robot Manipulation of Irregularly Shaped Objects](http://arxiv.org/abs/2503.05189v1)** | 2025-03-07 | <details><summary>Accep...</summary><p>Accepted to ICRA 2025</p></details> |
-| **[MGSR: 2D/3D Mutual-boosted Gaussian Splatting for High-fidelity Surface Reconstruction under Various Light Conditions](http://arxiv.org/abs/2503.05182v1)** | 2025-03-07 | 11 pages, 7 figures |
-| **[SplatPose: Geometry-Aware 6-DoF Pose Estimation from Single RGB Image via 3D Gaussian Splatting](http://arxiv.org/abs/2503.05174v1)** | 2025-03-07 | <details><summary>Submi...</summary><p>Submitted to IROS 2025</p></details> |
-| **[SeeLe: A Unified Acceleration Framework for Real-Time Gaussian Splatting](http://arxiv.org/abs/2503.05168v1)** | 2025-03-07 |  |
-| **[CAT-3DGS: A Context-Adaptive Triplane Approach to Rate-Distortion-Optimized 3DGS Compression](http://arxiv.org/abs/2503.00357v2)** | 2025-03-07 | <details><summary>Accep...</summary><p>Accepted for Publication in International Conference on Learning Representations (ICLR)</p></details> |
-| **[Generative Densification: Learning to Densify Gaussians for High-Fidelity Generalizable 3D Reconstruction](http://arxiv.org/abs/2412.06234v3)** | 2025-03-07 | <details><summary>Proje...</summary><p>Project page: https://stnamjef.github.io/GenerativeDensification/</p></details> |
+| **[SOGS: Second-Order Anchor for Advanced 3D Gaussian Splatting](http://arxiv.org/abs/2503.07476v1)** | 2025-03-10 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
+| **[EigenGS Representation: From Eigenspace to Gaussian Image Space](http://arxiv.org/abs/2503.07446v1)** | 2025-03-10 |  |
+| **[Efficient Perspective-Correct 3D Gaussian Splatting Using Hybrid Transparency](http://arxiv.org/abs/2410.08129v3)** | 2025-03-10 | <details><summary>Proje...</summary><p>Project page: https://fhahlbohm.github.io/htgs/</p></details> |
+| **[GAGS: Granularity-Aware Feature Distillation for Language Gaussian Splatting](http://arxiv.org/abs/2412.13654v2)** | 2025-03-10 | <details><summary>Proje...</summary><p>Project page: https://pz0826.github.io/GAGS-Webpage/</p></details> |
+| **[BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis](http://arxiv.org/abs/2411.08508v4)** | 2025-03-10 |  |
+| **[All That Glitters Is Not Gold: Key-Secured 3D Secrets within 3D Gaussian Splatting](http://arxiv.org/abs/2503.07191v1)** | 2025-03-10 |  |
+| **[Multi-Modal 3D Mesh Reconstruction from Images and Text](http://arxiv.org/abs/2503.07190v1)** | 2025-03-10 | under review |
+| **[Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination](http://arxiv.org/abs/2412.14957v2)** | 2025-03-10 |  |
+| **[SplatFormer: Point Transformer for Robust 3D Gaussian Splatting](http://arxiv.org/abs/2411.06390v3)** | 2025-03-10 | ICLR 2025 |
+| **[Frequency-Aware Density Control via Reparameterization for High-Quality Rendering of 3D Gaussian Splatting](http://arxiv.org/abs/2503.07000v1)** | 2025-03-10 | Accepted to AAAI2025 |
+| **[SeeLe: A Unified Acceleration Framework for Real-Time Gaussian Splatting](http://arxiv.org/abs/2503.05168v2)** | 2025-03-10 |  |
+| **[Hier-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting](http://arxiv.org/abs/2409.12518v4)** | 2025-03-10 | <details><summary>Accep...</summary><p>Accepted for publication at ICRA 2025. Code is available at https://github.com/LeeBY68/Hier-SLAM</p></details> |
+| **[GSplatVNM: Point-of-View Synthesis for Visual Navigation Models Using Gaussian Splatting](http://arxiv.org/abs/2503.05152v2)** | 2025-03-10 | 8 pages, 4 figures |
+| **[DirectTriGS: Triplane-based Gaussian Splatting Field Representation for 3D Generation](http://arxiv.org/abs/2503.06900v1)** | 2025-03-10 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
+| **[ActiveInitSplat: How Active Image Selection Helps Gaussian Splatting](http://arxiv.org/abs/2503.06859v1)** | 2025-03-10 |  |
 
 ## NeRF
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,6 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bias Unveiled: Investigating Social Bias in LLM-Generated Code](http://arxiv.org/abs/2411.10351v4)** | 2025-03-07 | <details><summary>accep...</summary><p>accepted for publication in the Association for the Advancement of Artificial Intelligence (AAAI), 2025</p></details> |
-| **[Understanding the Limits of Lifelong Knowledge Editing in LLMs](http://arxiv.org/abs/2503.05683v1)** | 2025-03-07 | Preprint |
-| **[A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval](http://arxiv.org/abs/2503.05659v1)** | 2025-03-07 |  |
-| **[LLMorpheus: Mutation Testing using Large Language Models](http://arxiv.org/abs/2404.09952v2)** | 2025-03-07 |  |
-| **[DeFT: Decoding with Flash Tree-attention for Efficient Tree-structured LLM Inference](http://arxiv.org/abs/2404.00242v4)** | 2025-03-07 | <details><summary>Updat...</summary><p>Update DeFT-v4, accepted by ICLR'25 (https://openreview.net/forum?id=2c7pfOqu9k). Our code is available at https://github.com/LINs-lab/DeFT</p></details> |
-| **[Learning LLM Preference over Intra-Dialogue Pairs: A Framework for Utterance-level Understandings](http://arxiv.org/abs/2503.05620v1)** | 2025-03-07 | 7 pages, 4 figures |
-| **[A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](http://arxiv.org/abs/2503.05613v1)** | 2025-03-07 | 20 pages, 3 figures |
-| **[Language Models Enable Simple Systems for Generating Structured Views of Heterogeneous Data Lakes](http://arxiv.org/abs/2304.09433v3)** | 2025-03-07 |  |
-| **[Efficient Evolutionary Search Over Chemical Space with Large Language Models](http://arxiv.org/abs/2406.16976v3)** | 2025-03-07 | <details><summary>Publi...</summary><p>Published in ICLR 2025</p></details> |
-| **[R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](http://arxiv.org/abs/2503.05592v1)** | 2025-03-07 |  |
-| **[SynSUM -- Synthetic Benchmark with Structured and Unstructured Medical Records](http://arxiv.org/abs/2409.08936v2)** | 2025-03-07 | <details><summary>The d...</summary><p>The dataset can be downloaded from https://github.com/prabaey/synsum. Presented at the GenAI4Health workshop at AAAI 2025</p></details> |
-| **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v3)** | 2025-03-07 |  |
-| **[Evaluating open-source Large Language Models for automated fact-checking](http://arxiv.org/abs/2503.05565v1)** | 2025-03-07 | <details><summary>Main:...</summary><p>Main: 10 pages, 13 figures. Supplementary Materials: 7 pages, 29 figures, 1 table ### This work has been submitted to the IEEE for possible publication. ###</p></details> |
-| **[Revitalizing Saturated Benchmarks: A Weighted Metric Approach for Differentiating Large Language Model Performance](http://arxiv.org/abs/2503.05551v1)** | 2025-03-07 | <details><summary>confe...</summary><p>conference NAACL, TrustNLP Workshop</p></details> |
-| **[Leveraging Approximate Caching for Faster Retrieval-Augmented Generation](http://arxiv.org/abs/2503.05530v1)** | 2025-03-07 |  |
+| **[LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?](http://arxiv.org/abs/2503.07487v1)** | 2025-03-10 |  |
+| **[GenAIReading: Augmenting Human Cognition with Interactive Digital Textbooks Using Large Language Models and Image Generation Models](http://arxiv.org/abs/2503.07463v1)** | 2025-03-10 | Accepted at AHs2025 |
 
