@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 17, 2025
+title: Latest 15 Papers - March 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,14 @@ labels: documentation
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Advancing 3D Gaussian Splatting Editing with Complementary and Consensus Information](http://arxiv.org/abs/2503.11601v1)** | 2025-03-14 | 7 pages, 9 figures |
+| **[EgoSplat: Open-Vocabulary Egocentric Scene Understanding with Language Embedded 3D Gaussian Splatting](http://arxiv.org/abs/2503.11345v1)** | 2025-03-14 |  |
+| **[GauSTAR: Gaussian Surface Tracking and Reconstruction](http://arxiv.org/abs/2501.10283v3)** | 2025-03-14 |  |
+| **[LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting](http://arxiv.org/abs/2410.05111v2)** | 2025-03-14 |  |
+| **[Uncertainty-Aware Normal-Guided Gaussian Splatting for Surface Reconstruction from Sparse Image Sequences](http://arxiv.org/abs/2503.11172v1)** | 2025-03-14 | 12 pages, 8 figures |
+| **[GuardSplat: Efficient and Robust Watermarking for 3D Gaussian Splatting](http://arxiv.org/abs/2411.19895v4)** | 2025-03-14 | <details><summary>This ...</summary><p>This paper is accepted by the IEEE/CVF International Conference on Computer Vision and Pattern Recognition (CVPR), 2025</p></details> |
+| **[RI3D: Few-Shot Gaussian Splatting With Repair and Inpainting Diffusion Priors](http://arxiv.org/abs/2503.10860v1)** | 2025-03-13 | <details><summary>Proje...</summary><p>Project page: https://people.engr.tamu.edu/nimak/Papers/RI3D, Code: https://github.com/avinashpaliwal/RI3D</p></details> |
+| **[Avatar Concept Slider: Controllable Editing of Concepts in 3D Human Avatars](http://arxiv.org/abs/2408.13995v3)** | 2025-03-13 |  |
 | **[LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds](http://arxiv.org/abs/2503.10625v1)** | 2025-03-13 | <details><summary>Proje...</summary><p>Project Page: https://lingtengqiu.github.io/LHM/</p></details> |
 | **[MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction](http://arxiv.org/abs/2503.10604v1)** | 2025-03-13 |  |
 | **[MVGSR: Multi-View Consistency Gaussian Splatting for Robust Surface Reconstruction](http://arxiv.org/abs/2503.08093v2)** | 2025-03-13 | <details><summary>proje...</summary><p>project page https://mvgsr.github.io</p></details> |
@@ -14,14 +22,6 @@ labels: documentation
 | **[SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving](http://arxiv.org/abs/2411.16816v3)** | 2025-03-13 |  |
 | **[VicaSplat: A Single Run is All You Need for 3D Gaussian Splatting and Camera Estimation from Unposed Video Frames](http://arxiv.org/abs/2503.10286v1)** | 2025-03-13 |  |
 | **[ROODI: Reconstructing Occluded Objects with Denoising Inpainters](http://arxiv.org/abs/2503.10256v1)** | 2025-03-13 | <details><summary>Proje...</summary><p>Project page: https://yeonjin-chang.github.io/ROODI/</p></details> |
-| **[GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction](http://arxiv.org/abs/2503.10170v1)** | 2025-03-13 |  |
-| **[3D Student Splatting and Scooping](http://arxiv.org/abs/2503.10148v1)** | 2025-03-13 |  |
-| **[GaussHDR: High Dynamic Range Gaussian Splatting via Learning Unified 3D and 2D Local Tone Mapping](http://arxiv.org/abs/2503.10143v1)** | 2025-03-13 | <details><summary>This ...</summary><p>This paper is accepted by CVPR 2025. Project page is available at https://liujf1226.github.io/GaussHDR</p></details> |
-| **[DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting](http://arxiv.org/abs/2503.00746v3)** | 2025-03-13 | CVPR 2025 |
-| **[Extrapolated Urban View Synthesis Benchmark](http://arxiv.org/abs/2412.05256v3)** | 2025-03-12 | <details><summary>Proje...</summary><p>Project page: https://ai4ce.github.io/EUVS-Benchmark/</p></details> |
-| **[Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation](http://arxiv.org/abs/2503.09464v1)** | 2025-03-12 |  |
-| **[Online Language Splatting](http://arxiv.org/abs/2503.09447v1)** | 2025-03-12 |  |
-| **[Fast Feedforward 3D Gaussian Splatting Compression](http://arxiv.org/abs/2410.08017v3)** | 2025-03-12 | <details><summary>Proje...</summary><p>Project Page: https://yihangchen-ee.github.io/project_fcgs/ Code: https://github.com/yihangchen-ee/fcgs/</p></details> |
 
 ## NeRF
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing](http://arxiv.org/abs/2503.10639v1)** | 2025-03-13 | <details><summary>Datas...</summary><p>Dataset and models are released in https://github.com/rongyaofang/GoT</p></details> |
-| **[HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model](http://arxiv.org/abs/2503.10631v1)** | 2025-03-13 |  |
-| **[UniGoal: Towards Universal Zero-shot Goal-oriented Navigation](http://arxiv.org/abs/2503.10630v1)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
-| **[Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search](http://arxiv.org/abs/2503.10619v1)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025 Trustworthy LLM</p></details> |
-| **[From TOWER to SPIRE: Adding the Speech Modality to a Text-Only LLM](http://arxiv.org/abs/2503.10620v1)** | 2025-03-13 |  |
-| **[Compositional Subspace Representation Fine-tuning for Adaptive Large Language Models](http://arxiv.org/abs/2503.10617v1)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025 SCOPE</p></details> |
-| **[R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization](http://arxiv.org/abs/2503.10615v1)** | 2025-03-13 | <details><summary>Code ...</summary><p>Code and Model: https://github.com/Fancy-MLLM/R1-onevision</p></details> |
-| **[CoSTA$\ast$: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing](http://arxiv.org/abs/2503.10613v1)** | 2025-03-13 |  |
-| **[TruthPrInt: Mitigating LVLM Object Hallucination Via Latent Truthful-Guided Pre-Intervention](http://arxiv.org/abs/2503.10602v1)** | 2025-03-13 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, the first two authors contributed equally</p></details> |
-| **[Unlock the Power of Unlabeled Data in Language Driving Model](http://arxiv.org/abs/2503.10586v1)** | 2025-03-13 | Accepted by ICRA2025 |
-| **[Unveiling the Mathematical Reasoning in DeepSeek Models: A Comparative Study of Large Language Models](http://arxiv.org/abs/2503.10573v1)** | 2025-03-13 |  |
-| **[ASIDE: Architectural Separation of Instructions and Data in Language Models](http://arxiv.org/abs/2503.10566v1)** | 2025-03-13 | <details><summary>ICLR ...</summary><p>ICLR 2025 Workshop on Building Trust in Language Models and Applications</p></details> |
-| **[BIMBA: Selective-Scan Compression for Long-Range Video Question Answering](http://arxiv.org/abs/2503.09590v2)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
-| **[Short-term AI literacy intervention does not reduce over-reliance on incorrect ChatGPT recommendations](http://arxiv.org/abs/2503.10556v1)** | 2025-03-13 |  |
-| **[KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation](http://arxiv.org/abs/2503.10546v1)** | 2025-03-13 | <details><summary>Proje...</summary><p>Project website: http://kuda-dynamics.github.io</p></details> |
+| **[Filter, Correlate, Compress: Training-Free Token Reduction for MLLM Acceleration](http://arxiv.org/abs/2411.17686v3)** | 2025-03-14 |  |
+| **[ASMA-Tune: Unlocking LLMs' Assembly Code Comprehension via Structural-Semantic Instruction Tuning](http://arxiv.org/abs/2503.11617v1)** | 2025-03-14 | <details><summary>19 pa...</summary><p>19 pages, multiple figures</p></details> |
+| **[Auto-GDA: Automatic Domain Adaptation for Efficient Grounding Verification in Retrieval-Augmented Generation](http://arxiv.org/abs/2410.03461v2)** | 2025-03-14 |  |
+| **[Agents' Room: Narrative Generation through Multi-step Collaboration](http://arxiv.org/abs/2410.02603v2)** | 2025-03-14 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025</p></details> |
+| **[A transfer learning framework for weak-to-strong generalization](http://arxiv.org/abs/2405.16236v3)** | 2025-03-14 | <details><summary>v2: M...</summary><p>v2: Major changes to set up, theory, and experiments v3: Camera ready</p></details> |
+| **[Alchemist: Towards the Design of Efficient Online Continual Learning System](http://arxiv.org/abs/2503.01066v2)** | 2025-03-14 |  |
+| **[Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs using Semantic Space](http://arxiv.org/abs/2503.11586v1)** | 2025-03-14 | ICLR 2025 Spotlight |
+| **[Synthesizing Access Control Policies using Large Language Models](http://arxiv.org/abs/2503.11573v1)** | 2025-03-14 | <details><summary>to be...</summary><p>to be published in the NLBSE Workshop at ICSE 2025</p></details> |
+| **[Implicit Bias-Like Patterns in Reasoning Models](http://arxiv.org/abs/2503.11572v1)** | 2025-03-14 |  |
+| **[VERIFY: A Benchmark of Visual Explanation and Reasoning for Investigating Multimodal Reasoning Fidelity](http://arxiv.org/abs/2503.11557v1)** | 2025-03-14 |  |
+| **[Dynamic-Width Speculative Beam Decoding for Efficient LLM Inference](http://arxiv.org/abs/2409.16560v2)** | 2025-03-14 |  |
+| **[Standards for Belief Representations in LLMs](http://arxiv.org/abs/2405.21030v2)** | 2025-03-14 |  |
+| **[Potential of large language model-powered nudges for promoting daily water and energy conservation](http://arxiv.org/abs/2503.11531v1)** | 2025-03-14 |  |
+| **[HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models](http://arxiv.org/abs/2503.11513v1)** | 2025-03-14 |  |
+| **[V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning](http://arxiv.org/abs/2503.11495v1)** | 2025-03-14 | <details><summary>A ben...</summary><p>A benchmark for Video Spatio-Temporal Reasoning</p></details> |
 
