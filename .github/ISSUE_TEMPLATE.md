@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 27, 2025
+title: Latest 15 Papers - March 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PGC: Physics-Based Gaussian Cloth from a Single Pose](http://arxiv.org/abs/2503.20779v1)** | 2025-03-26 |  |
+| **[Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields](http://arxiv.org/abs/2503.20776v1)** | 2025-03-26 |  |
+| **[4DRGS: 4D Radiative Gaussian Splatting for Efficient 3D Vessel Reconstruction from Sparse-View Dynamic DSA Images](http://arxiv.org/abs/2412.12919v2)** | 2025-03-26 | <details><summary>IPMI ...</summary><p>IPMI 2025 Oral; Zhentao Liu and Ruyi Zha made equal contributions</p></details> |
+| **[DeSplat: Decomposed Gaussian Splatting for Distractor-Free Rendering](http://arxiv.org/abs/2411.19756v2)** | 2025-03-26 |  |
+| **[DashGaussian: Optimizing 3D Gaussian Splatting in 200 Seconds](http://arxiv.org/abs/2503.18402v2)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted by CVPR2025. Project page: https://dashgaussian.github.io</p></details> |
+| **[A Survey on Event-driven 3D Reconstruction: Development under Different Categories](http://arxiv.org/abs/2503.19753v2)** | 2025-03-26 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, 6 tables, submitted to an anonymous conference under double-blind review</p></details> |
+| **[COB-GS: Clear Object Boundaries in 3DGS Segmentation Based on Boundary-Adaptive Gaussian Splitting](http://arxiv.org/abs/2503.19443v2)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
+| **[TC-GS: Tri-plane based compression for 3D Gaussian Splatting](http://arxiv.org/abs/2503.20221v1)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted by ICME 2025</p></details> |
+| **[EVolSplat: Efficient Volume-based Gaussian Splatting for Urban View Synthesis](http://arxiv.org/abs/2503.20168v1)** | 2025-03-26 | CVPR2025 |
+| **[POp-GS: Next Best View in 3D-Gaussian Splatting with P-Optimality](http://arxiv.org/abs/2503.07819v2)** | 2025-03-25 |  |
+| **[Thin-Shell-SfT: Fine-Grained Monocular Non-rigid 3D Surface Tracking with Neural Deformation Fields](http://arxiv.org/abs/2503.19976v1)** | 2025-03-25 | <details><summary>15 pa...</summary><p>15 pages, 12 figures and 3 tables; project page: https://4dqv.mpiinf.mpg.de/ThinShellSfT; CVPR 2025</p></details> |
 | **[Visualizing the Invisible: A Generative AR System for Intuitive Multi-Modal Sensor Data Presentation](http://arxiv.org/abs/2412.13509v2)** | 2025-03-25 |  |
 | **[AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting](http://arxiv.org/abs/2502.05176v2)** | 2025-03-25 | <details><summary>Paper...</summary><p>Paper accepted to CVPR 2025. Project page: https://kkennethwu.github.io/aurafusion360/</p></details> |
 | **[SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes](http://arxiv.org/abs/2410.17249v3)** | 2025-03-25 | <details><summary>Paper...</summary><p>Paper accepted to CVPR 2025. Project page: https://cdfan0627.github.io/spectromotion/</p></details> |
 | **[DepthSplat: Connecting Gaussian Splatting and Depth](http://arxiv.org/abs/2410.13862v3)** | 2025-03-25 | <details><summary>CVPR ...</summary><p>CVPR 2025, Project page: https://haofeixu.github.io/depthsplat/, Code: https://github.com/cvg/depthsplat</p></details> |
-| **[A Survey on Event-driven 3D Reconstruction: Development under Different Categories](http://arxiv.org/abs/2503.19753v1)** | 2025-03-25 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, 6 tables</p></details> |
-| **[High-Quality Spatial Reconstruction and Orthoimage Generation Using Efficient 2D Gaussian Splatting](http://arxiv.org/abs/2503.19703v1)** | 2025-03-25 |  |
-| **[ProtoGS: Efficient and High-Quality Rendering with 3D Gaussian Prototypes](http://arxiv.org/abs/2503.17486v2)** | 2025-03-25 |  |
-| **[GaussianUDF: Inferring Unsigned Distance Functions through 3D Gaussian Splatting](http://arxiv.org/abs/2503.19458v1)** | 2025-03-25 |  |
-| **[SparseGS-W: Sparse-View 3D Gaussian Splatting in the Wild with Generative Priors](http://arxiv.org/abs/2503.19452v1)** | 2025-03-25 |  |
-| **[COB-GS: Clear Object Boundaries in 3DGS Segmentation Based on Boundary-Adaptive Gaussian Splitting](http://arxiv.org/abs/2503.19443v1)** | 2025-03-25 |  |
-| **[From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting](http://arxiv.org/abs/2503.19358v1)** | 2025-03-25 | <details><summary>15 pa...</summary><p>15 pages, 12 figures, CVPR 2025</p></details> |
-| **[CompMarkGS: Robust Watermarking for Compressed 3D Gaussian Splatting](http://arxiv.org/abs/2503.12836v3)** | 2025-03-25 | 23 pages, 17 figures |
-| **[Divide-and-Conquer: Dual-Hierarchical Optimization for Semantic 4D Gaussian Spatting](http://arxiv.org/abs/2503.19332v1)** | 2025-03-25 | ICME 2025 |
-| **[MATT-GS: Masked Attention-based 3DGS for Robot Perception and Object Detection](http://arxiv.org/abs/2503.19330v1)** | 2025-03-25 | <details><summary>This ...</summary><p>This work has been submitted to the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) for possible publication</p></details> |
-| **[SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting](http://arxiv.org/abs/2411.17190v4)** | 2025-03-25 | <details><summary>Proje...</summary><p>Project page: https://gynjn.github.io/selfsplat/</p></details> |
 
 ## NeRF
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Large Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoLLM: A Large Language Model for Composed Image Retrieval](http://arxiv.org/abs/2503.19910v1)** | 2025-03-25 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project page: https://collm-cvpr25.github.io/</p></details> |
-| **[A Multi-Agent Framework Integrating Large Language Models and Generative AI for Accelerated Metamaterial Design](http://arxiv.org/abs/2503.19889v1)** | 2025-03-25 |  |
-| **[Right for Right Reasons: Large Language Models for Verifiable Commonsense Knowledge Graph Question Answering](http://arxiv.org/abs/2403.01390v3)** | 2025-03-25 | 33 pages, EMNLP24 |
-| **[CausalRAG: Integrating Causal Graphs into Retrieval-Augmented Generation](http://arxiv.org/abs/2503.19878v1)** | 2025-03-25 |  |
-| **[SLA-Awareness for AI-assisted coding](http://arxiv.org/abs/2503.19876v1)** | 2025-03-25 |  |
-| **[Think Twice: Enhancing LLM Reasoning by Scaling Multi-round Test-time Thinking](http://arxiv.org/abs/2503.19855v1)** | 2025-03-25 |  |
-| **[FALCONEye: Finding Answers and Localizing Content in ONE-hour-long videos with multi-modal LLMs](http://arxiv.org/abs/2503.19850v1)** | 2025-03-25 |  |
-| **[Towards Online Multi-Modal Social Interaction Understanding](http://arxiv.org/abs/2503.19851v1)** | 2025-03-25 |  |
-| **[A Comparative Analysis of Word Segmentation, Part-of-Speech Tagging, and Named Entity Recognition for Historical Chinese Sources, 1900-1950](http://arxiv.org/abs/2503.19844v1)** | 2025-03-25 | <details><summary>Accep...</summary><p>Accepted to NLP4DH 2025 at NAACL 2025</p></details> |
-| **[LLM4DV: Using Large Language Models for Hardware Test Stimuli Generation](http://arxiv.org/abs/2310.04535v2)** | 2025-03-25 |  |
-| **[SemEval-2025 Task 9: The Food Hazard Detection Challenge](http://arxiv.org/abs/2503.19800v1)** | 2025-03-25 | <details><summary>Under...</summary><p>Under review for SemEval 2025</p></details> |
-| **[PAVE: Patching and Adapting Video Large Language Models](http://arxiv.org/abs/2503.19794v1)** | 2025-03-25 | <details><summary>CVPR2...</summary><p>CVPR2025 Camera Ready</p></details> |
-| **[Decorum: A Language-Based Approach For Style-Conditioned Synthesis of Indoor 3D Scenes](http://arxiv.org/abs/2503.18155v2)** | 2025-03-25 |  |
-| **[UAVs Meet LLMs: Overviews and Perspectives Toward Agentic Low-Altitude Mobility](http://arxiv.org/abs/2501.02341v2)** | 2025-03-25 |  |
-| **[Empowering LLMs to Understand and Generate Complex Vector Graphics](http://arxiv.org/abs/2412.11102v3)** | 2025-03-25 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025. Project Page: https://ximinng.github.io/LLM4SVGProject/</p></details> |
+| **[Mobile-MMLU: A Mobile Intelligence Language Understanding Benchmark](http://arxiv.org/abs/2503.20786v1)** | 2025-03-26 | <details><summary>An or...</summary><p>An order-invariant and mobile-centric benchmark. Code and data are available at: https://github.com/VILA-Lab/Mobile-MMLU</p></details> |
+| **[Assessing Consistency and Reproducibility in the Outputs of Large Language Models: Evidence Across Diverse Finance and Accounting Tasks](http://arxiv.org/abs/2503.16974v2)** | 2025-03-26 | <details><summary>97 pa...</summary><p>97 pages, 20 tables, 15 figures</p></details> |
+| **[MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding](http://arxiv.org/abs/2408.11049v4)** | 2025-03-26 |  |
+| **[MATHGLANCE: Multimodal Large Language Models Do Not Know Where to Look in Mathematical Diagrams](http://arxiv.org/abs/2503.20745v1)** | 2025-03-26 |  |
+| **[Dynamic Motion Blending for Versatile Motion Editing](http://arxiv.org/abs/2503.20724v1)** | 2025-03-26 |  |
+| **[DexHandDiff: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation](http://arxiv.org/abs/2411.18562v5)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025. Camera ready version. Previous DexDiffuser. Project page: https://dexdiffuser.github.io/</p></details> |
+| **[From Annotation to Adaptation: Metrics, Synthetic Data, and Aspect Extraction for Aspect-Based Sentiment Analysis with Large Language Models](http://arxiv.org/abs/2503.20715v1)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted to NAACL SRW 2025</p></details> |
+| **[Text-to-Model: Text-Conditioned Neural Network Diffusion for Train-Once-for-All Personalization](http://arxiv.org/abs/2405.14132v2)** | 2025-03-26 | Preprint |
+| **[Mitigating Low-Level Visual Hallucinations Requires Self-Awareness: Database, Model and Training Strategy](http://arxiv.org/abs/2503.20673v1)** | 2025-03-26 |  |
+| **[Lexical Manifold Reconfiguration in Large Language Models: A Novel Architectural Approach for Contextual Modulation](http://arxiv.org/abs/2502.08818v2)** | 2025-03-26 | <details><summary>arXiv...</summary><p>arXiv admin note: This paper has been withdrawn by arXiv due to disputed and unverifiable authorship</p></details> |
+| **[TAMA: A Human-AI Collaborative Thematic Analysis Framework Using Multi-Agent LLMs for Clinical Interviews](http://arxiv.org/abs/2503.20666v1)** | 2025-03-26 | <details><summary>Submi...</summary><p>Submitted to the American Medical Informatics Association (AMIA) 2025 Annual Symposium, 10 pages</p></details> |
+| **[Context-Aware Semantic Recomposition Mechanism for Large Language Models](http://arxiv.org/abs/2501.17386v2)** | 2025-03-26 | <details><summary>arXiv...</summary><p>arXiv admin note: This paper has been withdrawn by arXiv due to disputed and unverifiable authorship</p></details> |
+| **[Probabilistic Lexical Manifold Construction in Large Language Models via Hierarchical Vector Field Interpolation](http://arxiv.org/abs/2502.10013v2)** | 2025-03-26 | <details><summary>arXiv...</summary><p>arXiv admin note: This paper has been withdrawn by arXiv due to disputed and unverifiable authorship</p></details> |
+| **[Contextual Subspace Manifold Projection for Structural Refinement of Large Language Model Representations](http://arxiv.org/abs/2502.08026v3)** | 2025-03-26 | <details><summary>arXiv...</summary><p>arXiv admin note: This paper has been withdrawn by arXiv due to disputed and unverifiable authorship</p></details> |
+| **[Latent Convergence Modulation in Large Language Models: A Novel Approach to Iterative Contextual Realignment](http://arxiv.org/abs/2502.06302v2)** | 2025-03-26 | <details><summary>arXiv...</summary><p>arXiv admin note: This paper has been withdrawn by arXiv due to disputed and unverifiable authorship</p></details> |
 
